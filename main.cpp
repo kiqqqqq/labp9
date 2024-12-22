@@ -4,4 +4,9 @@
    int main() {
        return 0;
    }
+      int a, b;
+   cout << "Enter two numbers: ";
+   cin >> a >> b;
+   return 0;
    
+
