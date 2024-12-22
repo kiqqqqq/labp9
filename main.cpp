@@ -8,5 +8,7 @@
    cout << "Enter two numbers: ";
    cin >> a >> b;
    return 0;
+      cout << "Sum: " << a + b << endl;
    
+
 
